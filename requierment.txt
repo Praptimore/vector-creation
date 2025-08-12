@@ -1,0 +1,11 @@
+PyPDF2
+PyMuPDF
+scikit-learn
+numpy
+requests
+azure-core
+azure-search-documents
+streamlit
+torch
+torchvision
+Pillow
